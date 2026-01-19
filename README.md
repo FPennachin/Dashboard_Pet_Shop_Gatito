@@ -30,3 +30,4 @@ O objetivo do projeto foi aplicar os conhecimentos adquiridos ao longo do curso,
 
 ## Badge
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Alura](https://img.shields.io/badge/Alura-001135?style=for-the-badge&logo=alura&logoColor=white)

@@ -1,33 +1,58 @@
 ## Dashboard Pet Shop Gatito
 
-Este repositório contém o projeto desenvolvido durante o curso "Power BI Desktop" oferecido pela Alura. 
-O objetivo do projeto foi aplicar os conhecimentos adquiridos ao longo do curso, criando um dashboard interativo e funcional utilizando o Power BI Desktop.
+Este projeto foi desenvolvido durante o curso “Power BI Desktop: construindo meu primeiro dashboard” (Alura), com o objetivo de criar um painel interativo para análise de desempenho de um pet shop fictício.
+​O foco é mostrar como utilizar Power BI para transformar dados brutos em indicadores visuais que apoiam decisões de negócio, como faturamento, serviços mais vendidos e comportamento de clientes.
 <br>
 <br>
-## 🔍 Sobre o Projeto: 
-##### A proposta do curso era criar um dashboard interativo utilizando o Power BI. Durante o projeto, aprendi a:
-- Importar e tratar dados com o Power Query.
-- Criar visualizações interativas, usando gráficos e segmentações.
-- Aplicar boas práticas para facilitar a análise de dados.
+
+
+## 🔍 Objetivo do projeto 
+- Simular o dia a dia de um analista de dados construindo um dashboard do zero no Power BI Desktop.  
+- Organizar e tratar dados de vendas e serviços de um pet shop para facilitar a análise de resultados.  
+- Entregar uma visualização clara para acompanhamento de **receita, volume de atendimentos e principais serviços**. 
+<br>
+
+## 🧠 O que foi feito
+Durante o desenvolvimento do dashboard, foram aplicadas as seguintes etapas:
+
+- **Preparação dos dados:** importação e tratamento dos dados utilizando **Power Query** (remoção de inconsistências, ajustes de tipos e estrutura).
+​
+- **Modelagem e cálculos:** criação de medidas e cálculos com **DAX** para métricas como total de vendas, ticket médio e comparações.
+
+- **Visualização e experiência do usuário:** construção de gráficos, segmentações e indicadores em uma página única, com foco em leitura rápida e navegação simples.
 <br>
 
 
 ## 📊 Visualização do Dashboard
-##### Você pode acessar o dashboard interativo diretamente neste [link](https://app.powerbi.com/view?r=eyJrIjoiNzk2N2I5M2QtMTBmOC00OWMxLTg1ODEtZDc0NDBjZWM4YTM2IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9).
+- Acesse o dashboard interativo no Power BI Service
+👉 [Ver dashboard online](https://app.powerbi.com/view?r=eyJrIjoiNzk2N2I5M2QtMTBmOC00OWMxLTg1ODEtZDc0NDBjZWM4YTM2IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9).
 
-> *Nota*: Para visualizar o dashboard, é necessário ter uma conta na plataforma Power BI Service.
-> Caso não tenha, anexei uma imagem (GATITO.jpg) para visualização do Dashboard criado. 
+
+<p align="center">
+  <img src="GATITO.jpg" alt="Dashboard Pet Shop Gatito - Power BI" width="800">
+</p>
 <br>
 
-## 🛠️ Tecnologias Utilizadas: 
-##### Power BI Desktop | Power Query | Ferramentas DAX para medidas personalizadas | Dados fictícios utilizadas para aprendizado.
+
+## 🛠️ Tecnologias e recursos 
+- **Power BI Desktop** para criação do relatório e modelagem de dados.
+- **Power Query** para limpeza, transformação e preparação dos dados.
+​- **DAX** para medidas personalizadas e KPIs usados no painel.
+​- **Dados fictícios**, utilizados exclusivamente para fins de estudo e prática de Business Intelligence
 <br> 
 
-## 📁 Arquivos do Repositório:
-##### GATITO.jpg - Imagem do Dashboard criado 
-##### Gatito.pbix - Documento do Power BI Desktop contendo o relatório e o modelo de dados do projeto.
+## 📁 Arquivos do Repositório
+- ##### GATITO.jpg - imagem do dashboard final em alta resolução.
+- ##### Gatito.pbix - arquivo do Power BI Desktop com o modelo de dados e o relatório completo.
 <br>
 
-## Badge
+## 📜 Certificado do curso
+- Certificado de conclusão do curso **“Power BI Desktop: construindo meu primeiro dashboard” – Alura**.
+
+🔗 [Ver certificado](https://cursos.alura.com.br/certificate/frpennachin/power-bi-desktop-construindo-meu-primeiro-dashboard)  
+<br>
+
+
+## Badges
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Alura](https://img.shields.io/badge/Alura-001135?style=for-the-badge&logo=alura&logoColor=white)
